@@ -1,9 +1,9 @@
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div>
-      <p>Hello!</p>
+      <p>Hello from the other side</p>
     </div>
   );
 }
